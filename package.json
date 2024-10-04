@@ -32,7 +32,7 @@
     "@safe-global/safe-apps-provider": "^0.18.3",
     "@safe-global/safe-apps-react-sdk": "^4.7.1",
     "@safe-global/safe-apps-sdk": "^9.0.0",
-    "@safe-global/safe-gateway-typescript-sdk": "^3.13.2",
+    "@safe-global/safe-gateway-typescript-sdk": "^3.22.2",
     "@safe-global/safe-react-components": "2.0.5",
     "@types/jest": "^29.5.12",
     "ace-builds": "^1.15.0",
